@@ -1,5 +1,9 @@
 ### Hi there 🙈🙉🙊
+
+
 💪🏻 I´m currenly work cleaning in The Bridge Digital Talent Aceleretor for a moment.
+
+
 👩🏻‍🎓 I´m currenly learning UX/UI in **The Bridge**. At the moment I´m learning HTML y CSS. 
 
 

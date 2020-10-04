@@ -1,24 +1,24 @@
-### Hi there 🙈🙉🙊
+# Hi there 🙈🙉🙊
 
-👩🏻 <span style="color:red">About me:</span>
+👩🏻 **About me:**
 
 I have spent more than 12 years as a teacher, museologist and tourist guide of historical and heritage events in Cuba. I have organized national and international art exhibitions and events there. I really like artistic design and I want to improve myself professionally to aspire to a job that is especially rewarding.
 
 
 
 
-💪🏻👩🏻‍🎓  <span style="color:red">I am currently working on:  
+💪🏻👩🏻‍🎓 **I am currently working on:**  
+      
 
-</span>
 
 Taking the UX / UI bootcamp at **The bridge Academy**. I am starting with the rampup, learning HTML and CSS. 
 
+&
 
 
+🌎 **How to reach me:**
 
-🌎 <span style="color: red">How to reach me:</span>
-
-<span style="color: purple">email: isislimpio0106@gmail.com</span>
+**email:** isislimpio0106@gmail.com
 
 
 <!--

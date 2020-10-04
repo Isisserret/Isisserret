@@ -1,10 +1,20 @@
 ### Hi there 🙈🙉🙊
 
+👩🏻 <span style="color:red">About me:</span>
 
-💪🏻 I´m currenly work cleaning in The Bridge Digital Talent Aceleretor for a moment.
+I have spent more than 12 years as a teacher, museologist and tourist guide of historical and heritage events in Cuba. I have organized national and international art exhibitions and events there. I really like artistic design and I want to improve myself professionally to aspire to a job that is especially rewarding.
 
 
-👩🏻‍🎓 I´m currenly learning UX/UI in **The Bridge**. At the moment I´m learning HTML y CSS. 
+
+
+💪🏻👩🏻‍🎓  <span style="color:red">I am currently working on: 
+</span>
+Taking the UX / UI bootcamp at **The bridge Academy**. I am starting with the rampup, learning HTML and CSS. 
+
+
+🌎 <span style="color: red">How to reach me:</span>
+
+<span style="color: purple">email: isislimpio0106@gmail.com</span>
 
 
 <!--

@@ -13,7 +13,7 @@ I have spent more than 12 years as a teacher, museologist and tourist guide of h
 
 Taking the UX / UI bootcamp at **The bridge Academy**. I am starting with the rampup, learning HTML and CSS. 
 
-&
+
 
 
 🌎 **How to reach me:**

@@ -7,9 +7,13 @@ I have spent more than 12 years as a teacher, museologist and tourist guide of h
 
 
 
-💪🏻👩🏻‍🎓  <span style="color:red">I am currently working on: 
+💪🏻👩🏻‍🎓  <span style="color:red">I am currently working on:  
+
 </span>
+
 Taking the UX / UI bootcamp at **The bridge Academy**. I am starting with the rampup, learning HTML and CSS. 
+
+
 
 
 🌎 <span style="color: red">How to reach me:</span>
